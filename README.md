@@ -36,8 +36,9 @@ You need the following Python libraries installed:
 
 You can install the primary dependencies using pip:
 
-```bash
-pip install ultralytics huggingface_hub opencv-python numpy Pillow
+   ```bash
+   pip install ultralytics huggingface_hub opencv-python numpy Pillow
+
 
 ## How to run
 Set up Environment: Use a Python environment (like Google Colab) with the dependencies listed above installed.
