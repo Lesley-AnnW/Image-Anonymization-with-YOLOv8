@@ -47,7 +47,7 @@ Upload image: Upload the image(s) you want to process to your environment.
 
 Update image path: Modify the image_path variable in the code to point to your uploaded image:
 
-Update this line with the path to your image: image_path = "/content/your_image_name.jpg"
+Update this line with the path to your image: image_path = "/your_path/your_image.jpg"
 
 Optional: If you only want to apply one specific blur method, instead of all three, you need to modify the code before running it. Comment out or delete the lines corresponding to the blur methods you don't want.
 
