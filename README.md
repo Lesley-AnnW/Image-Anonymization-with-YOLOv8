@@ -1,6 +1,6 @@
-# Image Anonymization with YOLOv8
+# Image anonymization experiment with YOLOv8
 
-This Colab notebook demonstrates segmenting people in images and detecting their faces using YOLOv8 models. To then apply various blurring techniques to anonymise the subjects.
+This Colab notebook demonstrates segmenting people in images and detecting their faces using YOLOv8 models. To then apply various blurring techniques to anonymise the subjects. This is an experiment and not production ready code. 
 
 ## Overview
 
