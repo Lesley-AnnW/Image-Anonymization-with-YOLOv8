@@ -55,7 +55,7 @@ Run the Code: If you use notebook, execute the cells in the notebook sequentiall
 
 Check Outputs: The processed images with different blur effects will be saved in your environment's content directory. You can view or download them from there.
 
-## Blurring Methods
+## Blurring methods
 
 This code implements three blurring methods for both faces (bounding boxes) and segmented people (masks):
 
